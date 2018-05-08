@@ -1,3 +1,3 @@
 <?php
-echo "Hello PHP";
+echo "Auto Update Hello PHP";
  ?>
